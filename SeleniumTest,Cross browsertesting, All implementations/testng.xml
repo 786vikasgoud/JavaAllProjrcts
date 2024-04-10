@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="browser" value="cHromE"/>
+    <parameter name="username" value="vikas"/>
+    <parameter name="password" value="Vikas786@"/>
+    <test verbose="2" preserve-order="true" name="/home/vikas/IdeaProjects/SeleniumTest" enabled="true">
+        <classes>
+            <class name="PageObjectedModel.Tests.FbLoginTest">
+            </class>
+        </classes>
+    </test>
+</suite>

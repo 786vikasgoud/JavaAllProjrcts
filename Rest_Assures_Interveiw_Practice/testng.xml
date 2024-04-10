@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/vikas/IdeaProjects/Rest_Assures_Interveiw_Practice/src/test/java/Simple_Book_Api">
+        <classes>
+            <class name="Simple_Book_Api.Create_Token">
+                <methods>
+                    <include name="GenerateToken"/>
+                </methods>
+            </class>
+            <class name="Simple_Book_Api.Get_Request">
+                <methods>
+                    <include name="getRequest"/>
+                </methods>
+            </class>
+            <class name="Simple_Book_Api.PostRequest">
+                <methods>
+                    <include name="postMethod"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

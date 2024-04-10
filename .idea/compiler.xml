@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="untitled1" />
+        <module name="selenium_clon" />
+        <module name="testproject" />
+        <module name="RestAssured" />
+        <module name="untitled1 (1)" />
+        <module name="DataDrivenTesting" />
+        <module name="IplProjecQa" />
+        <module name="Selenium" />
+        <module name="selenium_EndToEnd_Testing" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

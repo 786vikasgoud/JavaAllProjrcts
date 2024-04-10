@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/vikas/IdeaProjects/RestAssured_pet_Hardlevel_Implementaion/src/test/java/Test">
+        <classes>
+            <class name="Test.post">
+            </class>
+            <class name="Test.get">
+            </class>
+            <class name="Test.put">
+            </class>
+            <class name="Test.kk">
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
